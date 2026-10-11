@@ -131,6 +131,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+temp_auto_push.bat
 .pixi/
 .env
 .venv
@@ -178,7 +179,6 @@ cython_debug/
 .idea/
 
 # VS Code
-.vscode/
 
 # Swift / Xcode local state
 .build/
@@ -265,3 +265,4 @@ PLANS/**
 CLAUDE.md
 
 node_modules/
+branch_structure.json
